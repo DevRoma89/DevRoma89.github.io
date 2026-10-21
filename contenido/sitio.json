@@ -1,0 +1,25 @@
+{
+  "nombre": "CEMAP",
+  "nombreCompleto": "Cámara de Empresas Maquiladoras del Paraguay",
+  "lema": "Impulsamos la maquila paraguaya",
+  "bajada": "Representamos, defendemos y fortalecemos al sector maquilador y a las empresas afines del Paraguay, para que la industria que produce y exporta desde el país siga creciendo.",
+  "contacto": {
+    "correo": "cemap@gmail.com",
+    "telefono": "",
+    "direccion": "Asunción, Paraguay",
+    "responsable": "Paz Leguizamón"
+  },
+  "redes": [
+    { "nombre": "Instagram", "usuario": "@maquila.cemap.py", "url": "https://www.instagram.com/maquila.cemap.py/" }
+  ],
+  "cifras": {
+    "titulo": "La maquila en cifras",
+    "nota": "Fuente: MIC, CNIME y prensa nacional. Primer semestre 2026.",
+    "items": [
+      { "valor": "US$ 717 M", "etiqueta": "Exportaciones del 1.er semestre 2026", "detalle": "+25 % frente a 2025" },
+      { "valor": "36.052", "etiqueta": "Empleos directos", "detalle": "45 % son mujeres" },
+      { "valor": "324", "etiqueta": "Empresas maquiladoras registradas", "detalle": "160 en Alto Paraná" },
+      { "valor": "US$ 1.309 M", "etiqueta": "Exportaciones 2025", "detalle": "Récord histórico" }
+    ]
+  }
+}

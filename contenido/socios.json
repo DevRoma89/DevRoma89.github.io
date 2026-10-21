@@ -1,0 +1,81 @@
+{
+  "introduccion": "Sumate a la red que representa a la industria que produce y exporta desde Paraguay.",
+  "brochure": "",
+  "beneficios": [
+    {
+      "titulo": "Representación del sector",
+      "texto": "Tu empresa tiene voz ante el Estado, el Congreso y los organismos que regulan el Régimen de Maquila."
+    },
+    {
+      "titulo": "Información técnica actualizada",
+      "texto": "Jornadas técnicas, charlas e informes sobre la operativa aduanera, fiscal y laboral del régimen."
+    },
+    {
+      "titulo": "Expo Maquila y eventos",
+      "texto": "Participación en la Expo Maquila, el Cóctel de Fin de Año y los Premios CEMAP."
+    },
+    {
+      "titulo": "Red de contactos",
+      "texto": "Vínculo directo con otras maquiladoras, proveedores, inversores e instituciones aliadas."
+    },
+    {
+      "titulo": "Visibilidad",
+      "texto": "Difusión de las novedades de tu empresa en el newsletter y las redes de la cámara."
+    },
+    {
+      "titulo": "Newsletter para socios",
+      "texto": "Resumen mensual de la agenda, las cifras del sector y la presencia de la CEMAP en los medios."
+    }
+  ],
+  "tipos": [
+    {
+      "id": "activo",
+      "nombre": "Socio Activo",
+      "descripcion": "Para empresas maquiladoras establecidas en Paraguay.",
+      "formulario": "/docs/socios/formulario-socio-activo.xlsx",
+      "requisitos": [
+        "Constancia de RUC",
+        "Cédula de identidad del/los representante/s legal/es",
+        "Resolución biministerial emitida por el MIC y el Ministerio de Hacienda"
+      ]
+    },
+    {
+      "id": "adherente",
+      "nombre": "Socio Adherente",
+      "descripcion": "Para empresas, instituciones, profesionales o proveedores vinculados al ecosistema maquilador.",
+      "formulario": "/docs/socios/formulario-socio-adherente.xlsx",
+      "requisitos": [
+        "Unipersonal: constancia de RUC y cédula del firmante",
+        "S.A.: escritura de constitución y sus modificaciones, constancia de RUC y cédula de los firmantes",
+        "S.R.L.: escritura de constitución y sus modificaciones, constancia de RUC y cédula de los firmantes"
+      ]
+    }
+  ],
+  "proceso": [
+    {
+      "titulo": "Enviás la solicitud de interés",
+      "texto": "Solo datos de la empresa y de contacto. La ficha completa y los documentos pueden ir después."
+    },
+    {
+      "titulo": "La cámara te contacta",
+      "texto": "Revisamos la solicitud, te contamos la cuota según el tipo de socio y resolvemos tus dudas."
+    },
+    {
+      "titulo": "Completás la ficha y te damos la bienvenida",
+      "texto": "Con la ficha y los documentos, la Comisión Directiva aprueba el ingreso."
+    }
+  ],
+  "cuota": "La cuota depende del tipo de socio. Te la informamos en el primer contacto, sin compromiso.",
+  "contacto": {
+    "nombre": "Paz Leguizamón",
+    "rol": "Atención a socios"
+  },
+  "logros": {
+    "titulo": "Lo que hicimos en 2026",
+    "noticias": [
+      "jornada-tecnica-regimen-de-maquila-congreso",
+      "previsibilidad-tributaria-posicion-de-la-camara",
+      "uip-aliado-institucional-expo-maquila-2026"
+    ]
+  }
+}

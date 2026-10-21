@@ -1,0 +1,175 @@
+[
+  {
+    "categoria": "Informes del sector",
+    "archivos": [
+      {
+        "titulo": "Informe mensual de maquila – agosto 2026 (CNIME)",
+        "archivo": "/docs/informes/informe-maquila-agosto-2026.pdf",
+        "peso": "1,1 MB"
+      }
+    ]
+  },
+  {
+    "categoria": "Régimen de Maquila",
+    "archivos": [
+      {
+        "titulo": "Ley N.º 1064 de Maquila",
+        "archivo": "/docs/Ley de Maquila - 1064.doc",
+        "peso": "56 KB"
+      },
+      {
+        "titulo": "Reglamento de la Ley de Maquila",
+        "archivo": "/docs/Reglamento de Ley Maquila.doc",
+        "peso": "132 KB"
+      },
+      {
+        "titulo": "Recaudos para presentar un Programa de Maquila",
+        "archivo": "/docs/Recaudos para presentar Programa de Maquila.doc",
+        "peso": "66 KB"
+      },
+      {
+        "titulo": "Modelo de Programa de Maquila (421A)",
+        "archivo": "/docs/421A Modelo Programa Maquila.doc",
+        "peso": "57 KB"
+      },
+      {
+        "titulo": "Modelo de nota de solicitud (211A)",
+        "archivo": "/docs/211A Modelo Nota Solicitud.doc",
+        "peso": "27 KB"
+      },
+      {
+        "titulo": "Law 1064 of Maquila (English)",
+        "archivo": "/docs/Law 1064 of Maquila.doc",
+        "peso": "56 KB"
+      },
+      {
+        "titulo": "Decree of Maquila (English)",
+        "archivo": "/docs/Decret of Maquila.doc",
+        "peso": "199 KB"
+      }
+    ],
+    "aviso": "Versiones de 2022, anteriores a la Ley N.º 7547/2025 que modificó el Régimen de Maquila. Antes de usarlas, confirmá la versión vigente con la cámara."
+  },
+  {
+    "categoria": "Formularios del programa",
+    "archivos": [
+      {
+        "titulo": "121A Materias primas e insumos",
+        "archivo": "/docs/121A Formulario Materias Primas e Insumos.xls",
+        "peso": "30 KB"
+      },
+      {
+        "titulo": "122A Productos",
+        "archivo": "/docs/122A Formulario Productos.xls",
+        "peso": "34 KB"
+      },
+      {
+        "titulo": "122B Productos – Industria farmacéutica",
+        "archivo": "/docs/122B Formulario Productos - Industria Farmaceutica.xls",
+        "peso": "35 KB"
+      },
+      {
+        "titulo": "123A Subproductos",
+        "archivo": "/docs/123A Formulario Subproductos.xls",
+        "peso": "30 KB"
+      },
+      {
+        "titulo": "124A Bienes de capital",
+        "archivo": "/docs/124A Bienes de Capital.xls",
+        "peso": "28 KB"
+      },
+      {
+        "titulo": "133A Descarga de materia prima",
+        "archivo": "/docs/133A Descarga Materia Prima.xls",
+        "peso": "27 KB"
+      },
+      {
+        "titulo": "133B Descarga de subproducto",
+        "archivo": "/docs/133B Descarga Subproducto.XLS",
+        "peso": "21 KB"
+      },
+      {
+        "titulo": "133C Descarga de bienes de capital",
+        "archivo": "/docs/133C Descarga Bienes de Capital.XLS",
+        "peso": "21 KB"
+      },
+      {
+        "titulo": "Autorización de reexportación",
+        "archivo": "/docs/C1AUTORI_reexp.XLS",
+        "peso": "44 KB"
+      },
+      {
+        "titulo": "Plantilla para llenado",
+        "archivo": "/docs/Plantilla para LLenado.xls",
+        "peso": "759 KB"
+      },
+      {
+        "titulo": "Plantilla para imprimir",
+        "archivo": "/docs/Plantilla para Imprimir.xls",
+        "peso": "2,1 MB"
+      }
+    ],
+    "aviso": "Versiones de 2022, anteriores a la Ley N.º 7547/2025 que modificó el Régimen de Maquila. Antes de usarlas, confirmá la versión vigente con la cámara."
+  },
+  {
+    "categoria": "Inversión y legislación relacionada",
+    "archivos": [
+      {
+        "titulo": "Ley 60/90 de Incentivos a la Inversión",
+        "archivo": "/docs/60-90 Incentivos a Inversion.doc",
+        "peso": "45 KB"
+      },
+      {
+        "titulo": "Decreto 23069 que reglamenta la Ley 60/90",
+        "archivo": "/docs/Decreto 23069 Reglamenta 60-90.doc",
+        "peso": "24 KB"
+      },
+      {
+        "titulo": "Law 60/90 Incentives for Investment (English)",
+        "archivo": "/docs/60-90 Incentives for Investment Law.doc",
+        "peso": "2,0 MB"
+      },
+      {
+        "titulo": "Ley 117 de Igualdad de Inversiones",
+        "archivo": "/docs/Ley 117 Igualdad Inversiones.doc",
+        "peso": "32 KB"
+      },
+      {
+        "titulo": "Ley 125 de Reforma Tributaria",
+        "archivo": "/docs/Ley 125 Reforma Tributaria.doc",
+        "peso": "76 KB"
+      },
+      {
+        "titulo": "Ley 523 de Zonas Francas",
+        "archivo": "/docs/Ley 523 de Zonas Francas.doc",
+        "peso": "56 KB"
+      },
+      {
+        "titulo": "Ley 294 de Impacto Ambiental",
+        "archivo": "/docs/Ley 294 Impacto Ambiental.doc",
+        "peso": "38 KB"
+      },
+      {
+        "titulo": "Ley 912 de Propiedad Intelectual",
+        "archivo": "/docs/Ley 912 Propiedad Intelectual.doc",
+        "peso": "48 KB"
+      },
+      {
+        "titulo": "Ley 1328 de Derecho de Autor",
+        "archivo": "/docs/Ley 1328 Derecho del autor.doc",
+        "peso": "198 KB"
+      },
+      {
+        "titulo": "Ley 1334 de Defensa del Consumidor",
+        "archivo": "/docs/Ley 1334 Defensa Consumidor y Usuario.doc",
+        "peso": "70 KB"
+      },
+      {
+        "titulo": "Ley 978 de Migraciones",
+        "archivo": "/docs/Ley 978 Migraciones.doc",
+        "peso": "156 KB"
+      }
+    ],
+    "aviso": "Versiones de 2022, anteriores a la Ley N.º 7547/2025 que modificó el Régimen de Maquila. Antes de usarlas, confirmá la versión vigente con la cámara."
+  }
+]

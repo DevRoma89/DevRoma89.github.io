@@ -1,0 +1,66 @@
+{
+  "edicion": "10.ª Expo Maquila",
+  "anio": 2026,
+  "fechas": "11 al 13 de noviembre de 2026",
+  "lugar": "Centro TASK, Parque Tecnológico Itaipú (PTI), Hernandarias",
+  "marco": "En el marco del Paraguay Business Week, dentro de la 17.ª Expo Paraguay Brasil.",
+  "descripcion": "En el pabellón de la CEMAP, las empresas expositoras presentan sus productos y servicios a inversores y compradores de la región. La Unión Industrial Paraguaya nos acompaña en la recepción como Aliado Institucional.",
+  "inscripcion": { "texto": "Más información e inscripción", "url": "" },
+  "charla": {
+    "titulo": "Maquila de servicios: exportar servicios desde Paraguay",
+    "fecha": "Jueves 12 de noviembre, 12:45",
+    "descripcion": "Cómo el Régimen de Maquila abre oportunidades para empresas de software, centros de contacto, servicios compartidos y tercerización de procesos, ahora que la Ley N.º 7547/2025 reconoce expresamente a los servicios dentro del régimen. Formato de conversación entre panelistas, sin diapositivas.",
+    "panelistas": [
+      "Jorge Bunchicoff, presidente de la CEMAP",
+      "Pablo Zabala, presidente de CAPASER y de EPICUS CORPORATE PY",
+      "Representante de SKYTEL",
+      "Representante de Nestlé"
+    ]
+  },
+  "auspiciantes": [
+    {
+      "categoria": "Auspiciantes principales",
+      "empresas": [
+        { "nombre": "ENVACO", "logo": "" },
+        { "nombre": "ENVACO POP", "logo": "" },
+        { "nombre": "Itaú Corporate", "logo": "" },
+        { "nombre": "Cenit Seguros", "logo": "/img/aliados/cenit.png" }
+      ]
+    },
+    {
+      "categoria": "Aliados estratégicos",
+      "empresas": [
+        { "nombre": "Nestlé", "logo": "/img/aliados/nestle.png" },
+        { "nombre": "AMBIX", "logo": "/img/aliados/ambix.png" },
+        { "nombre": "BID", "logo": "/img/aliados/bid.png", "fondoOscuro": true }
+      ]
+    },
+    {
+      "categoria": "Aliados institucionales",
+      "empresas": [
+        { "nombre": "Unión Industrial Paraguaya (UIP)", "logo": "" },
+        { "nombre": "Sistema B", "logo": "/img/aliados/sistema-b.png" }
+      ]
+    }
+  ],
+  "expositores": [
+    { "nombre": "Petersen", "logo": "" },
+    { "nombre": "CAPASER", "logo": "" },
+    { "nombre": "Royal Seguros", "logo": "/img/aliados/royal.png" },
+    { "nombre": "SolidCAM", "logo": "" },
+    { "nombre": "Flavors and Fragrances", "logo": "/img/aliados/flavors.png", "fondoOscuro": true },
+    { "nombre": "GEASA", "logo": "/img/aliados/geasa.png" },
+    { "nombre": "Rotesma", "logo": "" },
+    { "nombre": "Preformax", "logo": "/img/aliados/preformax.png" },
+    { "nombre": "Cargopack", "logo": "" },
+    { "nombre": "Comagro", "logo": "" },
+    { "nombre": "Cenit", "logo": "/img/aliados/cenit.png" },
+    { "nombre": "TCM", "logo": "/img/aliados/tcm.png" },
+    { "nombre": "Ecostar", "logo": "/img/aliados/ecostar.png" },
+    { "nombre": "Megaplásticos", "logo": "/img/aliados/megaplasticos.png" },
+    { "nombre": "Estudio Lelio Esteban Arévalo", "logo": "/img/aliados/lelio.png" },
+    { "nombre": "R.G Consultora", "logo": "" },
+    { "nombre": "Shelter", "logo": "" },
+    { "nombre": "M360", "logo": "" }
+  ]
+}

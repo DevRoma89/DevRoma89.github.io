@@ -1,0 +1,38 @@
+[
+  {
+    "id": "conversatorio-uip",
+    "fecha": "2026-10-22",
+    "hora": "18:00",
+    "titulo": "Conversatorio sobre el Régimen de Maquila en la UIP",
+    "lugar": "Sede de la Unión Industrial Paraguaya",
+    "descripcion": "Jorge Bunchicoff presentará las oportunidades, los beneficios y los requisitos para que una empresa produzca bajo el Régimen de Maquila. La actividad se organiza junto con la UIP, que celebra sus 90 años. Requiere registro previo.",
+    "enlace": { "texto": "Pedir inscripción", "url": "/contacto?asunto=Inscripci%C3%B3n%20al%20conversatorio%20en%20la%20UIP" }
+  },
+  {
+    "id": "expo-maquila-2026",
+    "fecha": "2026-11-11",
+    "fechaFin": "2026-11-13",
+    "titulo": "10.ª Expo Maquila",
+    "lugar": "Parque Tecnológico Itaipú (PTI), Hernandarias",
+    "descripcion": "En el marco del Paraguay Business Week, dentro de la 17.ª Expo Paraguay Brasil. En el pabellón de la CEMAP, las empresas expositoras presentan sus productos y servicios a inversores y compradores de la región.",
+    "enlace": { "texto": "Ver la Expo Maquila", "url": "/expo-maquila" }
+  },
+  {
+    "id": "charla-maquila-servicios",
+    "fecha": "2026-11-12",
+    "hora": "12:45",
+    "titulo": "Charla: Maquila de servicios, exportar servicios desde Paraguay",
+    "lugar": "Expo Maquila, PTI, Hernandarias",
+    "descripcion": "Cómo el Régimen de Maquila abre oportunidades para empresas de software, centros de contacto, servicios compartidos y tercerización de procesos, ahora que la Ley N.º 7547/2025 reconoce expresamente a los servicios dentro del régimen.",
+    "enlace": { "texto": "Ver detalles", "url": "/expo-maquila" }
+  },
+  {
+    "id": "coctel-fin-de-ano",
+    "fecha": "2026-11-19",
+    "hora": "19:30",
+    "titulo": "Cóctel de Fin de Año y Premios CEMAP 2026",
+    "lugar": "Club Centenario, Salón Veteranos",
+    "descripcion": "Reconocimiento a las maquiladoras que se destacaron este año en exportación, inversión, generación de empleo y mercados. Las empresas socias reciben la invitación por correo; cada empresa puede confirmar hasta dos representantes, con registro nominal hasta el 9 de noviembre. Todavía hay lugar para auspiciantes en las categorías Platino, Oro, Plata y Colaborador.",
+    "enlace": { "texto": "Quiero auspiciar", "url": "/contacto?asunto=Auspicio%20C%C3%B3ctel%20de%20Fin%20de%20A%C3%B1o" }
+  }
+]

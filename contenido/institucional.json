@@ -1,0 +1,51 @@
+{
+  "quienesSomos": "La CEMAP reúne a las empresas que producen y exportan bajo el Régimen de Maquila en Paraguay, y a quienes las acompañan. Articulamos al sector privado con el Estado, los trabajadores y los organismos nacionales e internacionales, impulsando la formación, las soluciones técnicas, el diálogo constructivo y propuestas de política pública orientadas al crecimiento sostenible del régimen.",
+  "queHacemos": [
+    {
+      "titulo": "Representación",
+      "texto": "Llevamos la voz del sector ante el Estado, el Congreso y los organismos que regulan el régimen."
+    },
+    {
+      "titulo": "Información técnica",
+      "texto": "Jornadas, charlas e informes sobre procedimientos aduaneros, fiscales y laborales del régimen."
+    },
+    {
+      "titulo": "Conexiones",
+      "texto": "Organizamos la Expo Maquila y encuentros que acercan a empresas, inversores y compradores."
+    },
+    {
+      "titulo": "Promoción",
+      "texto": "Posicionamos a Paraguay como plataforma industrial integrada a las cadenas regionales de valor."
+    }
+  ],
+  "vision": "Ser la institución de referencia del régimen de maquila y la manufactura de exportación en América Latina, posicionando al Paraguay como una plataforma industrial integrada a las cadenas regionales y globales de valor, generadora de inversión, empleo formal, innovación y oportunidades de desarrollo.",
+  "mision": "Representar, defender y fortalecer al sector maquilador y empresas afines del Paraguay, promoviendo un entorno industrial moderno, competitivo y previsible, que impulse la inversión productiva, el empleo formal, la innovación, el desarrollo del talento y la inserción internacional del país.",
+  "valores": [
+    {
+      "titulo": "Desarrollo con impacto",
+      "texto": "Promovemos un crecimiento industrial que mejore la vida de las personas, genere empleo digno, formación de talento, movilidad social y oportunidades reales de progreso para las familias paraguayas."
+    },
+    {
+      "titulo": "Cooperación e institucionalidad",
+      "texto": "Impulsamos una relación técnica y constructiva entre empresas, Estado, trabajadores y organismos nacionales e internacionales, basada en el respeto, la seguridad jurídica, la previsibilidad y la construcción conjunta de soluciones."
+    },
+    {
+      "titulo": "Integridad y compromiso",
+      "texto": "Actuamos con ética, responsabilidad, coherencia y transparencia en la representación del sector, con una gestión cercana y orientada a las necesidades de los socios y al fortalecimiento institucional de la Cámara."
+    },
+    {
+      "titulo": "Competitividad e innovación",
+      "texto": "Fomentamos la incorporación de tecnología, conocimiento y mejora continua para fortalecer la productividad, la calidad y el acceso a mercados de las empresas maquiladoras y afines."
+    },
+    {
+      "titulo": "Sostenibilidad y responsabilidad",
+      "texto": "Promovemos una industria comprometida con el cuidado ambiental, el uso eficiente de los recursos y el desarrollo responsable de las futuras generaciones."
+    },
+    {
+      "titulo": "Visión de largo plazo",
+      "texto": "Trabajamos para consolidar al Paraguay como una plataforma industrial sólida, moderna y competitiva, promoviendo estabilidad, políticas consistentes y crecimiento sostenible en el tiempo."
+    }
+  ],
+  "frase": "La maquila paraguaya es más que un régimen de exportación: es una plataforma de desarrollo humano, industrial y tecnológico para el Paraguay.",
+  "regimen": "El Régimen de Maquila permite que empresas instaladas en Paraguay produzcan bienes y presten servicios para la exportación con un tributo único. Desde la Ley N.º 7547/2025, el régimen reconoce expresamente a los servicios: software, centros de contacto, servicios compartidos y tercerización de procesos."
+}

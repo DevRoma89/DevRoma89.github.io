@@ -1,0 +1,21 @@
+{
+  "periodo": "2026 – 2028",
+  "miembros": [
+    { "cargo": "Presidente", "nombre": "Jorge Bunchicoff", "empresa": "Blue Design S.A.", "foto": "" },
+    { "cargo": "Vicepresidente 1.º", "nombre": "Luis Melgarejo", "empresa": "Sumidenso Paraguay S.A.", "foto": "" },
+    { "cargo": "Vicepresidente 2.º", "nombre": "Enzo Olmedo", "empresa": "INPASA del Paraguay S.A.", "foto": "" },
+    { "cargo": "Secretaria", "nombre": "Florencia Fustagno", "empresa": "CMA Paraguay S.A.", "foto": "" },
+    { "cargo": "Tesorero", "nombre": "Claudia Mendoza", "empresa": "Hansin S.A.", "foto": "" },
+    { "cargo": "Vocal 1", "nombre": "Oscar Mersán", "empresa": "Gelnex Industria y Comercio S.A.", "foto": "" },
+    { "cargo": "Vocal 2", "nombre": "Aldo Benitez", "empresa": "Lunelli Textil Paraguay S.A.", "foto": "" },
+    { "cargo": "Vocal 3", "nombre": "Simone Oliveira", "empresa": "SICAN S.A.", "foto": "" },
+    { "cargo": "Vocal suplente 1", "nombre": "Wendell Menezes", "empresa": "Nestlé Latam Business Services", "foto": "" },
+    { "cargo": "Vocal suplente 2", "nombre": "Jazmin Narvaez", "empresa": "Marseg S.R.L.", "foto": "" },
+    { "cargo": "Vocal suplente 3", "nombre": "Diego Venica", "empresa": "DIPRO S.A.", "foto": "" },
+    { "cargo": "Vocal suplente 4", "nombre": "Daniel Gomes", "empresa": "CIE", "foto": "" },
+    { "cargo": "Síndico titular", "nombre": "Rodrigo Giménez", "empresa": "Roca Laminados", "foto": "" },
+    { "cargo": "Síndico suplente 1", "nombre": "Alexandre Bazzan", "empresa": "Cortinerías del Paraguay S.A.", "foto": "" },
+    { "cargo": "Síndico suplente 2", "nombre": "Pieter Hemeryck", "empresa": "Grass Industry S.A.", "foto": "" },
+    { "cargo": "Síndico suplente 3", "nombre": "Elvio Villasboa", "empresa": "AMM", "foto": "" }
+  ]
+}
